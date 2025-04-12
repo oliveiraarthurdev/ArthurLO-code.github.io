@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
 
@@ -13,7 +12,7 @@ const HeroSection = () => {
             <h2 className="text-fifa-teal font-medium">Software Developer</h2>
           </div>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-            Your Name's <br />
+            Arthur's <br />
             <span className="text-fifa-gold">Developer Career</span>
           </h1>
           <p className="text-white/80 text-lg md:text-xl max-w-lg mb-8">
@@ -43,7 +42,7 @@ const HeroSection = () => {
                 className="w-full aspect-[3/4] object-cover"
               />
               <div className="absolute bottom-0 left-0 right-0 p-4 z-20">
-                <h3 className="text-2xl font-bold">YOUR NAME</h3>
+                <h3 className="text-2xl font-bold">ARTHUR</h3>
                 <p className="text-fifa-teal">Full Stack Developer</p>
               </div>
             </div>
